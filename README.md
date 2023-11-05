@@ -8,4 +8,4 @@ Note: These are only the files for my plugins, not the actual plugins themselves
 * [Discord](https://discord.com/users/775465295526494229)
 * [Website](https://www.youtube.com/@epicdogeplays)
 
-href="https://galaxyswapperv2.com/Guilded"><img src="https://cdn.discordapp.com/attachments/1122580592370921494/1129255436281983046/ServerBanner2.jpg"></a>
+<img src="https://cdn.discordapp.com/attachments/1122580592370921494/1129255436281983046/ServerBanner2.jpg"></a>
